@@ -1,6 +1,6 @@
 [![BBC Blue Room](http://www.bbc.co.uk/showsandtours/resources/tickets/static/blue_room_logo.png)](https://twitter.com/BBCBlueRoom?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-# BBC Blue Room - tech demonstrator research TEST
+# BBC Blue Room - tech demonstrator research
 
 This page is built by Melissa Wood for the purpose of being a resource for research into emerging technology.
 
