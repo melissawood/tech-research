@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+[![BBC Blue Room](http://www.bbc.co.uk/showsandtours/resources/tickets/static/blue_room_logo.png)](https://twitter.com/BBCBlueRoom?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-You can use the [editor on GitHub](https://github.com/melissawood/tech-research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# BBC Blue Room - tech demonstrator research TEST
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is built by Melissa Wood for the purpose of being a resource for research into emerging technology.
 
-### Markdown
+### Mixed Reality:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - [Microsoft Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets)
+  - [Windows Marketing Video](https://youtu.be/67yLuiSfMWM)
+  - [Acer Windows Mixed Reality headsets](https://www.youtube.com/watch?v=4PdUx2NdVe8)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Hololens Review
 
-- Bulleted
-- List
+  - [YouTube Reiviewer](https://youtu.be/hm7qmtkf5r4)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Broadcast examples:
+  - [ITV - Dance Dance Dance](http://www.radiotimes.com/news/2017-02-12/everything-you-need-to-know-about-itvs-new-series-dance-dance-dance/)
+  - [BBC Sport Piero AR game facts](https://www.ericsson.com/en/networked-society/live-sports-experience/4k-and-augmented-reality)
+  - [Piero PDF tech details](http://www.ericsson.com/broadcastandmedia/wp-content/uploads/2015/04/PIERO-Broadcast.pdf)
+  - [BBC Research & Development](http://www.bbc.co.uk/rd/projects/piero)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Augmented Reality links:
 
-### Jekyll Themes
+  - [World Brush iOS app](https://medium.com/@activetheory/world-brush-augmented-reality-painting-7910766b2bba) - leave paintings around the world
+  - [19 Crimes AR Wine Marketing](https://www.youtube.com/watch?v=uDxqdrLlDY8)
+  - [Affordable AR](https://www.kickstarter.com/projects/aryzon/aryzon-3d-augmented-reality-for-every-smartphone?ref=popular)
+  - [GooglePal - google fitted tech from Google Glass](https://www.kickstarter.com/projects/810787439/gogglepal-the-first-ar-heads-up-display-for-any-go?ref=newest)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melissawood/tech-research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Internet of Things:
+
+  - If That Then This - connect devices & app together: https://ifttt.com/
+
+
+### Virtual Reality Links:
+
+
+### 4k Broadcast
+  - [4k Broadcasters](http://www.trustedreviews.com/opinion/who-will-broadcast-4k-tv-content-first-2929435)
+
+
+
+### Voice Devices:
+  - https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills
+
+
+### Misc. Links for tech:
+
+  - Life Saver - gyroscope in tablets example of CPR: https://life-saver.org.uk/
+
+  - Trinus App - make normal PC games VR: https://www.trinusvirtualreality.com/#home
+
+  - BBC R&D unconventional screens development: http://www.bbc.co.uk/rd/projects/unconventional-screens
+
+  - Water Drone - app controlled camera [link](https://www.kickstarter.com/projects/ziphius/ziphius-the-aquatic-drone?ref=newest)
+
+  - 3D capture device for ipad - [link](https://www.kickstarter.com/projects/occipital/structure-sensor-capture-the-world-in-3d)
+
+  - 3D camera capture - [WeeView](http://www.weeview.co/eng/photo.php?PKey=7610LWXoCQiSdchK6w42Lsm53odtu_LFNeEp8EIj&Class2=adc44UdHPbXNBrmuz-shfAaxWs6MlCryw2pwcow0Rg)
+
+
+
+### Images:
+
+  - Ivan Sutherland (1968) - first working AR headset: http://www.ardummies.org/wp-content/uploads/2016/03/work.jpg
+
+
